@@ -1,0 +1,18 @@
+Look into data more <- understand what is actually in the data
+     -> Look at metadata
+     -> unexpected properties
+     -> "chy" vs "chimney" vs "c"? vs ....?
+     -> squares vs circles for chimneys or other...?
+     -> how many samples of data do we have
+     -> how many are chy, how many are chimney etc
+     -> how many squares/circles etc
+     -> understanding ALL of the files -> .tif .tif.aux.xml etc
+     -> get full overview of dataset
+     -> ....
+
+Stitch together coordinates -> putting the jig-saw together by combining the images
+       -> using the coordinates...?
+Image Recognition for "chy" or "chimney"
+Image Recognition on squares/circles
+Try to find more Cassini Maps
+Look into existing work/publication

@@ -1,0 +1,60 @@
+| Word/Letter     | Position | Shape         | L/R/U/D      | Notes                                                          |
+|-----------------+----------+---------------+--------------+----------------------------------------------------------------|
+| Chy.            | Outside  | Square        | R-D          | NA                                                             |
+| Chy             | Ouside   | Circle        | R-D          | Triangle in Circle, with dot in triangle, no dot for Chy       |
+| Chy.            | Inside   | Circle        | NA           | NA                                                             |
+| Chy.            | Inside   | Square        | NA           | Connected to building                                          |
+| Chy.            | Inside   | Circle        | NA           | NA                                                             |
+| Chimney         | Outside  | Circle        | R            | Circle Cut off at border of image ... <- image reconstruction? |
+| Chimney         | Outside  | Square        | R            | NA                                                             |
+| Chimney         | Outside  | Circle        | R            | NA                                                             |
+| Chimney         | Outside  | Circle        | R            | NA                                                             |
+| Chimney         | Outside  | Circle        | R            | Na                                                             |
+| Chimney         | Outside  | Octogon       | R            | NA                                                             |
+| Chy             | Outside  | Square        | U-R          | NA                                                             |
+| Chy.            | Outside  | Square        | R-D          | NA                                                             |
+| Chy.            | Outside  | Square        | DL           | NA                                                             |
+| Chimney         | Outside  | Square        | Left         | NA                                                             |
+| Chimney         | Ouside   | Circle        | Left         | NA                                                             |
+| Chimney         | Outside  | Square        | Left         | Surrounded by many smaller squares                             |
+| Chimney         | Outside  | Square        | Right        | Partial square, bad text quality                               |
+| Chimney         | Outside  | Square        | Left         | NA                                                             |
+| Chimney         | Outside  | Square        | Left         | NA                                                             |
+| Chimney         | Outside  | Square        | Left         | NA                                                             |
+| Chimney         | Outside  | Square        | Left         | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | U            | NA                                                             |
+| Chimney         | Outside  | Square        | UR           | NA                                                             |
+| Chimney         | Outside  | Square        | L            | NA                                                             |
+| Chimney/Chiiney | Outside  | Circle        | Top-Right    | Bad text quality, chimney or chiiney                           |
+| Chimney         | Outside  | Square/Circle | Right        | Circle within a Square                                         |
+| Chimney         | Outside  | Square        | Left         | Thicccccc square                                               |
+| Chy.            | Inside   | Circle        | NA           | NA                                                             |
+| Chy.            | Inside   | Square        | NA           | NA                                                             |
+| Chy.            | Outside  | Circle        | Left         | NA                                                             |
+| Chimney         | Outside  | Circle        | Bottom       | NA                                                             |
+| Chimney         | Outside  | Circle        | Top          | NA                                                             |
+| Chimney         | Outsid   | Circle        | Right        | NA                                                             |
+| Chimney         | Outside  | Square        | Top-RIght    | NA                                                             |
+| Chimney         | Outside  | Square        | Bottom-Right | Lots of surrounding squares and broken square                  |
+| Chy.            | Outside  | Square        | Right        | Tiny Square                                                    |
+| Chimney         | Outside  | Square        | Left         | Word overlaps box/shape                                        |
+| Chimney         | Outside  | Circle        | Left         | Half word outside shape/half word inside shape                 |
+| Chy             | Outside  | Rectangle     | Bottom Right | NA                                                             |
+| Chy.            | Outside  | Circle        | Right        | Surrounded by equi-distant squares but circle is chimney       |
+
+
+
+
+
+
+Circle <- industry...?
+Square <- bakers/personal use?
+Octogon <- ???

@@ -1,0 +1,15 @@
+* .tfw Files
+
+6 Lines (sometimes 8)
+
+| Line | Description                                                                        |
+|------+------------------------------------------------------------------------------------|
+|    1 | x-scale. Horizontal distance in meters for each pixel                              |
+|    2 | Rotation around y axis                                                             |
+|    3 | Rotation around x axis                                                             |
+|    4 | y-scale. Vertical distance in meters for each pixel, normally negative as top is 0 |
+|    5 | x-reference point. Horizontal coordinate/Easting of center of top left pixel       |
+|    6 | y-reference point. Vertical coordinate/Northing of center of top left pixel        |
+|      |                                                                                    |
+|    7 | Grid Zone/ Coordinate System                                                       |
+|    8 | Datum                                                                              |

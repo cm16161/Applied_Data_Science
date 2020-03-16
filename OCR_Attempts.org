@@ -1,0 +1,3 @@
+* Tesseract
+
+tesseract [IMAGE_FILE.tif] stdout -l eng --oem 1 --psm 3

@@ -1,0 +1,140 @@
+Large Dataset <- 100GB+
+
+Objective:
+Digitize elements of maps
+use map data of insdustrial chimneys to see how communities develop with
+pollution and pollution clouds
+
+Important Elements to Digitize:
+    1. Take map and make a Google Map/OSM type thing
+       * Unidentified polygons <- houses
+    2. Elements that should be recognised
+       * Chimneys <- most important
+       * Given a random tile can observe what a chimney is and how it looks
+       * Street Names
+       * Public Amineties
+	 * Churches
+	 * Schools
+	 * Banks
+	 * etc
+
+Chimneys and workshops/industries related to chimneys are most important to digitize
+
+We have flexibility and scope to digitize what we want/find interesting
+
+Priority is Industrial Chimneys!!
+
+Detecting houses is interesting
+
+The purpose is to make Google Maps
+    * Labelled Features
+    * Maps show items clearly
+    * Humans can classify, so machine/program should
+      * Use shape recognition
+
+Our dataset is manually trained
+Manully find chimneys, label with "x"
+System to detect "x" to get locations
+
+Chimneys show locations of industry/industrial areas
+
+Turing Institute looking at maps as a whole and determine whether it is residential or industrial
+Less focus on feature detection and digitizing
+
+Key emphasis on digitizing features
+
+Data Owner not entirely clear on definition of Data Science, doesn't understand the difference between
+SDE, Data Science, ML/AI
+
+Data Science is simple and not simple
+Need additional data
+Need data on outcomes:
+    * He can provide data for us
+    * Look at chimneys (automatic process)
+      * generate pollution from chimneys
+      * spread pollution around that area
+      * sophisticated way:
+	* dispertion model
+	* use wind/weather pattern models
+      * Simple way:
+	* do it ourselves
+	* use average wind patterns
+	  * to spread pollution
+	* weather station data to get wind patterns and generate pollution cloud
+    * Can use geographic tool software
+    * We have now created pollution but we have no outcome
+
+Hypothesis on data
+if we create pollution, it will affect the shape of the city in the long run
+previous project
+pollution affected neighbourhood sorting
+    * social classes of residents
+    * see more crime
+    * school quality lower
+    * types of houses change
+We can get pollution data to create an outcome that we are interested in
+We can capture some outcomes which census data
+eg. Social housing or migrant population
+Can combine pollution with census data to get an outcome for something we are interested in
+
+Historical data is hard to get
+So get census data for now
+
+Past pollution has modified cities in the past
+but this has long lasting implications which we now feel
+
+How does Past Pollution affect current city layouts
+Classify on historical data
+    * see the effect of this in today's society
+
+Key: NOT looking at MODERN pollution
+
+Some maps show land-use
+
+Combine pollution with some outcome
+Data available for anything that we are interested in
+Can get sattelite
+
+If we want some historical outcome we don't have much in terms of datasets
+Maps and historic census data are only reasonable options
+
+How does pollution affect how poor an area is
+    * are there trees?
+    * types of houses <- villas vs terraced
+
+Select one outcome
+Tell him what we want and he will help us get the data that we need
+
+Detecting chimneys and creating pollution will be the "difficult part"
+
+The is 1 factor which explain why chimneys predict the presence of poor people
+Chimney = factory = low-skilled workers
+Could be related due to external factors due to commute time
+
+Examine the effect of pollution
+Not just close to the factory
+Some sort of assymetric routes of pollution
+   * weather
+   * commuting
+
+Detect chimneys and then find the affect of pollution in that area
+we can choose what we are interested in
+
+House Prices can be explored
+
+We need to decide what data/outcome we want
+Tell him and he can sort this out for us
+
+1 or 2 is a limitation
+Can we explore more options?
+We wont be able to predict everything
+There is too much
+Useful if it can answer the question "what can this change?"
+
+If we want to explore more options it is ok, just harder to come up with a solid conclusion
+
+Maybe create our own outcomes
+If we need data nowadays
+any datasource which can be geolocalised can be used/useful
+
+Websites exist that geolocate small crimes

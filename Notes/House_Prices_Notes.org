@@ -1,0 +1,37 @@
+* House Price Statistics
+Data Taken from Zoopla past 20 years
+
+** Burnley
+
+*** Pratt Street
+Av.  £48,604
+Cur. £62,886
+
+*** Ford Street
+Av.  £28,937
+Cur. £45,226
+
+*** Marles Street/Court
+
+Av.  N/A
+Cur. £126,771
+
+*** Wood Street
+
+Av.  N/A
+Cur. £54,804
+
+*** Cameron Street
+
+Av.  £34,651
+Cur. £50,061
+
+*** Baker Street
+
+Av.  £24,026
+Cur. £49,392
+
+*** Branch Road/Street
+
+Av.  £32,740
+Cur. £62,756

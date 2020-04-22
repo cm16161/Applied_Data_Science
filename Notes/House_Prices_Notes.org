@@ -2,6 +2,8 @@
 Data Taken from Zoopla past 20 years
 
 ** Burnley
+Current asking prices in Burnley
+Average: £139,383 
 
 *** Pratt Street
 Av.  £48,604

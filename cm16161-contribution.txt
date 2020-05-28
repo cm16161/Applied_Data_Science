@@ -21,3 +21,5 @@ Finally I learnt how best to visualise data by using the Seaborn library.
 Going into this project I did not know much about Python so by using it in the project I learnt a lot.
 I also learnt how to break a large task down into manageable pieces which can then be assigned to different people,
 and how to remotely work in a team.
+
+All work that I did can be found at my GitHub: https://github.com/cm16161/Applied_Data_Science

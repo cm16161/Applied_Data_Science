@@ -1,0 +1,23 @@
+In the early stages of the project I was responsible for communicating with the data owner.
+I scheduled the first few meetings with him and subsequently broke down the tasks which
+were required for this project.
+I would keep the supervisor informed of the status of the group and project as a whole
+during all of the meetings
+I was also responsible for the initial analysis of the map images and auxiliary files
+provided by the data-owner.
+Throughout the project I made sure that everyone had a task assigned to them, while
+also performing work myself.
+I was responsible for exploring and analysing the correlation between features extracted
+on the maps to the number of crimes in an area. 
+This involved finding and cleaning the available crime data for the UK, 
+processing the large volumes of data by using Pandas Dataframes and generating heatmaps 
+using Seaborn to visualise the results
+
+From this course I have learnt how to find and use publicly available data to serve some purpose.
+I learnt how to use Pandas to create Dataframes from large CSV files, and then extract the most important
+and relevant features. I also learnt how to use Python to create an efficient pipeline which could take
+a filename and then process it until a desired output is returned.
+Finally I learnt how best to visualise data by using the Seaborn library.
+Going into this project I did not know much about Python so by using it in the project I learnt a lot.
+I also learnt how to break a large task down into manageable pieces which can then be assigned to different people,
+and how to remotely work in a team.

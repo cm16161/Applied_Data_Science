@@ -1,3 +1,5 @@
+Contributions
+--------------------------------
 In the early stages of the project I was responsible for communicating with the data owner.
 I scheduled the first few meetings with him and subsequently broke down the tasks which
 were required for this project.
@@ -15,11 +17,15 @@ using Seaborn to visualise the results
 I also performed the T-Test on the Crime Data
 
 
+What I Learnt
+--------------------------------
 From this course I have learnt how to find and use publicly available data to serve some purpose.
 I learnt how to use Pandas to create Dataframes from large CSV files, and then extract the most important
 and relevant features. I also learnt how to use Python to create an efficient pipeline which could take
 a filename and then process it until a desired output is returned.
 Finally I learnt how best to visualise data by using the Seaborn library, and how to perform statistical tests on Data using Python and Pandas.
+I found it interesting when looking at the heatmaps with an without London as it enabled me to see that there was a slight correlation.
+Rather than no link at all due to the massive difference of London compared with the rest of the UK
 Going into this project I did not know much about Python so by using it in the project I learnt a lot.
 I also learnt how to break a large task down into manageable pieces which can then be assigned to different people, and how to remotely work in a team.
 
